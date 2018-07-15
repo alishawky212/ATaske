@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Link Development</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="base_url">http://newsapi.org/v1/</string>
+
+    <string name="source">the-next-web</string>
+
+    <string name="apiKey">533af958594143758318137469b41ba9</string>
+
+    <string name="action_search">Search</string>
+    <string name="button_txt">Open Website</string>
+    <string name="date_txt">Date goes here</string>
+    <string name="title_goes_here">title goes here</string>
+    <string name="author_name">authorName</string>
+    <string name="welcome_msg">Welcome</string>
+    <string name="name">Tony Roshdy</string>
+    <string name="explore">Explore</string>
+    <string name="live_chat">Live Chat</string>
+    <string name="gallery">Gallery</string>
+    <string name="wish_list">Wish List</string>
+    <string name="e_magazine">E-Magazine</string>
+    <string name="article_image_transition_name">articleImageTransition</string>
+
+</resources>
